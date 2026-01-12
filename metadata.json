@@ -1,0 +1,5 @@
+{
+  "name": "Vision Board AI",
+  "description": "Una aplicación interactiva para crear tableros de visión (Vision Boards) utilizando IA para generar imágenes inspiradoras, frases motivacionales y organizar tus metas.",
+  "requestFramePermissions": []
+}
